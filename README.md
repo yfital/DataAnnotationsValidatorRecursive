@@ -3,6 +3,8 @@
 The helper will recursively traverse your object graph and invoke validation against DataAnnotations.
 This originated from following Stackoverflow answer: http://stackoverflow.com/a/8090614/605586
 
+This fork is for multi target support of .net standard and .net framework
+
 ## Installation
 
 Available as NuGet-Package `dataannotationsvalidator`:
